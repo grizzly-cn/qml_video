@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/image/下一首.png</file>
+        <file>res/image/上一首.png</file>
+        <file>res/image/播放.png</file>
+        <file>res/image/音频列表.png</file>
+        <file>res/image/音符02.png</file>
+        <file>res/image/停止.png</file>
+        <file>res/image/文件.png</file>
+    </qresource>
+</RCC>
