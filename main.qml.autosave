@@ -130,7 +130,6 @@ ApplicationWindow {
 
             /* 拖动进度条，改变播放位置 */
             slider.onMoved: {
-//                mediaPlayer.position = videoBar.slider.value
                 mediaPlayer.seek(videoBar.slider.value)
             }
         }
